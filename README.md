@@ -2,7 +2,7 @@
 
 I'm Gabriella! Just some rando that likes to code minecraft plugins in their free time.
 
-Here are some ideas to get you started:
+Here is some fun info!
 
 - 🔭 I’m currently working on UHC Center! UHC Center is a competitive uhc-based server. Check it out (here!)[https://uhc.center]
 - 📫 How to reach me: You can find me on Discord (Gabriella#6859) or my Twitter ((@Gxbrlella)[twitter.com/Gxbrlella])
