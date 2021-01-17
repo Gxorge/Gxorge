@@ -4,7 +4,7 @@ I'm Gabriella! Just some rando that likes to code minecraft plugins in their fre
 
 Here is some fun info!
 
-- 🔭 I’m currently working on UHC Center's "From the Ashes" update!
+- 🔭 I’m currently working on a remake of HiveMC's "The Herobrine!"
 - 📫 How to reach me: You can find me on Discord (Gabriella#6859), my Twitter ([@Gxbrlella](twitter.com/Gxbrlella)) or my email (isgabriellacurious@gmail.com)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Honeybees can get drunk on fermented tree sap!
