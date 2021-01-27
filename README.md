@@ -1,6 +1,6 @@
 ### Hey, hey! 👋
 
-I'm Gabriella! I enjoy coding a wide varaity of things, mainly Minecraft plugin, however I also like to try to code Among Us mods and Beat Saber mods!
+I'm Gabriella! I enjoy coding a wide varaity of things, mainly Minecraft plugins, however I also like to try to code Among Us mods and Beat Saber mods!
 
 Here is some fun info!
 
