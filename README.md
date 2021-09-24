@@ -9,6 +9,8 @@ Here is some fun info about me!:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Honeybees can get drunk on fermented tree sap!
 
+Enjoy some stats!
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
