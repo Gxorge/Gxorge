@@ -16,13 +16,13 @@ Enjoy some stats!
 
 **🐱 My GitHub Data** 
 
-> 🏆 164 Contributions in the Year 2021
+> 🏆 177 Contributions in the Year 2021
  > 
 > 📦 137.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 28 Private Repositories  
  > 
@@ -86,7 +86,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2021
+ Last Updated on 29/09/2021
 <!--END_SECTION:waka-->
 
 See you around!
