@@ -18,7 +18,7 @@ Enjoy some stats!
 
 > 🏆 187 Contributions in the Year 2021
  > 
-> 📦 137.1 kB Used in GitHub's Storage 
+> 📦 137.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,7 +81,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
 See you around!
