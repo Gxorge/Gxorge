@@ -55,16 +55,16 @@ Sunday       35 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-C#                       2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Rider                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Floof                    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,7 +81,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 See you around!
