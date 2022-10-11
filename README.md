@@ -4,5 +4,4 @@
  <br>
  i liek to pretend i can program ⌨️<br>
  bri'ish 💂<br>
- they/them || any/all 🥰<br>
 </p>
