@@ -4,4 +4,6 @@
  <br>
  i liek to pretend i can program ⌨️<br>
  bri'ish 💂<br>
+ <br>
+ contact me at ghcon@ghott.me 📧<br>
 </p>
